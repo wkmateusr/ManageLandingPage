@@ -2,7 +2,7 @@
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
-Demo:
+Demo: https://wkmateusr.github.io/ManageLandingPage/
 
 ## INTRO
 
